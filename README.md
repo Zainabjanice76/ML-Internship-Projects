@@ -1,2 +1,2 @@
-# ML-Internship-Projects
+# Handwritten Digit Recognotion
 Projects for my Machine Learning internship in GrowIntern
